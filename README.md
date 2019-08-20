@@ -1,45 +1,109 @@
-# 介绍
 
-## star和repository
-#### 1 java-basic
-**javase集中营，设计模式，juc,易错点，面试题目搜集，**
-#### 2 shiro
-**shiro入门，shiro进阶，学习shiro的练习记录**
-#### 3 search-house
-**mooc搜索房源实战，ES+redis+springboot**
-#### 4 hrserver
-**简易的hr管理系统，clone而来，**
-#### 5 springPig
-**学习spring框架的记录和笔记的整理**
-#### 6 common-admin
-**简易的后台管理系统，shiro+springboot**
-#### 7 mybatis
-**学习mybatis框架的记录和练习以及一些测试**
-#### 8 weixin-order
-**微信点餐系统，springboot+jpa+redis**
-#### 9 happymall
+## 介绍 star和repository
+
+##  ocean 项目实战
+
+### mooc 1 happymall
 **来自慕课网的实战电商课程，纯后端开发，返回json数据给前端，ssm**
-#### 10 comment
+### mooc 2 weixin-order
+**微信点餐系统，springboot+jpa+redis**
+### mooc 3  blue
+**ssm+freemarker高仿慕课网系统，有亮点，复杂的sql查询，js代码不错**
+### mooc 4 comment
 **慕课网实战教程，大众点评，ssm架构**
-#### 11 weixin
-**模块分别：验证码，redis,ssm整合，poi,ajax,jpa整合，sql复杂查询测试！**
-#### 12 passbook  merchants
-**分布式优惠卷系统，服务端，代码风格不错，规范不错！/ 客户端，h2+kafka**
-#### 13 web-river
-**前端中心：css,html,js,jquery,bootstrap,vue,json,echarts,layui,thymeleaf,所有的案列demo!**
-#### 14 VUE
-**我的vue练习**
-#### 15 exam999
-**简单的ssm+shiro+bootstrap教务管理系统,熟悉语法，玩玩也行，校验，安全，参数，较多的漏洞，没实际意义！**
-#### 16 tasteshop
+### 4 tasteshop--毕设
 **毕设利器，投入时间，精力最大，ssm+shiro+redis+poi+echarts+jquery+bootstrap+jsp;
 TODO:改造为springboot,引入quartz,rabbitmq**
-#### 17 SpringMvc
+### 5 mmall_springboot
+**毕设2.0，电商系统，升级版：vue+springboot+es+shiro+redis,未吃透TODO**
+#### 1 search-house......
+**mooc搜索房源实战，ES+redis+springboot**
+#### 2 passbook  merchants......
+**分布式优惠卷系统，服务端，代码风格不错，规范不错！/ 客户端，h2+kafka**
+### 3 cateye
+
+----------------------框架-----------------------
+
+## sea 框架
+#### 1 springPig   
+**学习spring框架的记录和笔记的整理**
+### 2 Hibernate 
+**持久层框架学习**
+### 3  SpringMvc
 **练习mvc的训练中心**
-#### 18 SuperBGM_IDEA
-**mybatis:逆向工程，生成dao,mapper,xml,pojo**
-#### 19 python-river
+### 4  mybatis
+**学习mybatis框架的记录和练习以及一些测试**
+### 5 shiro
+**shiro入门，shiro进阶，学习shiro的练习记录**
+
+-------------------------------代码生成器-----------------------------------------------
+
+## river 代码生成器
+
+### 1 SuperBGM_IDEA
+**mybatis:idea工具逆向工程，生成dao,mapper,xml,pojo**
+### 2 fastapi /ssmgenerator / sloth / ssm_template/ 
+**代码生成器，包含controller,service代码**
+### 3 spring-boot-api-project-seed
+**springboot+种子项目，脚手架**
+### 4 SuperBGM
+**eclipse专用mybatis生成器**
+### 5 My_MyBatis_Plus 
+**mybatis plus mybatis的升级版本**
+### 6 SuperMapperBGM Private
+**mapper接口，mybatis的升级版，内置单表crud方法，简化开发**
+### 7 mybatis-plus 
+**mybatis plus代码生成**
+
+
+
+----------------------基础-------------------------
+
+#### 1 java-basic
+**javase集中营，从hello，world到设计模式，juc,易错点，面试题目搜集，**
+#### 2 web-river
+**前端中心：css,html,js,jquery,bootstrap,vue,json,echarts,layui,thymeleaf,所有的案列demo!**
+### 3 python-river
 **py学习记录，基础**
+### 4 VUE
+**我的vue练习**
+
+-----------------后台管理项目模版-----------------
+
+### 1 springboot_swagger2 
+
+### 2 common-admin 
+**shiro+springboot**
+
+---------------开源利器------------------
+
+### 1 hrserver
+**简易的hr管理系统，clone而来，新技术试用场所，**
+### 2 morning-seashop
+**一个模块化的商城，一般**
+### 3 seablog
+**一个不错的博客系统，ssm+jsp**
+#### 15 exam999
+**简单的ssm+shiro+bootstrap教务管理系统,熟悉语法，玩玩也行，校验，安全，参数，较多的漏洞，没实际意义！**
+### 27 springbmvc_crud
+**spring+jpa小练习**
+
+***************原生技术项目**********************
+### 24 servletshop 
+**jdbc+mysql+jquery原生的书城项目**
+### 31 mokereply
+**慕课问答系统：jdbc+jquery**
+***************原生技术项目**************************
+
+
+
+
+### 28 seashop
+**电商系统和tasteshop是类似的！！！**
+## 34 crm32/ssm32
+**ssm整合，微型项目**
+#### 11 weixin
+**模块分别：验证码，redis,ssm整合，poi,ajax,jpa整合，sql复杂查询测试！**
 
 ### Guns v4.0更新内容
 
